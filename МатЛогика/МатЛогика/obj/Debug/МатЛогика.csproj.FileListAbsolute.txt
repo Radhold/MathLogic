@@ -1,0 +1,13 @@
+C:\Users\radhold\source\repos\МатЛогика\МатЛогика\bin\Debug\МатЛогика.exe.config
+C:\Users\radhold\source\repos\МатЛогика\МатЛогика\bin\Debug\МатЛогика.exe
+C:\Users\radhold\source\repos\МатЛогика\МатЛогика\bin\Debug\МатЛогика.pdb
+C:\Users\radhold\source\repos\МатЛогика\МатЛогика\obj\Debug\МатЛогика.csprojAssemblyReference.cache
+C:\Users\radhold\source\repos\МатЛогика\МатЛогика\obj\Debug\МатЛогика.Form1.resources
+C:\Users\radhold\source\repos\МатЛогика\МатЛогика\obj\Debug\МатЛогика.Properties.Resources.resources
+C:\Users\radhold\source\repos\МатЛогика\МатЛогика\obj\Debug\МатЛогика.csproj.GenerateResource.cache
+C:\Users\radhold\source\repos\МатЛогика\МатЛогика\obj\Debug\МатЛогика.exe
+C:\Users\radhold\source\repos\МатЛогика\МатЛогика\obj\Debug\МатЛогика.pdb
+C:\Users\radhold\source\repos\МатЛогика\МатЛогика\bin\Debug\Stateless.dll
+C:\Users\radhold\source\repos\МатЛогика\МатЛогика\bin\Debug\Stateless.xml
+C:\Users\radhold\source\repos\МатЛогика\МатЛогика\obj\Debug\МатЛогика.csproj.CopyComplete
+C:\Users\radhold\source\repos\МатЛогика\МатЛогика\obj\Debug\МатЛогика.Form2.resources
